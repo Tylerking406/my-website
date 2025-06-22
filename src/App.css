@@ -40,3 +40,21 @@
 .read-the-docs {
   color: #888;
 }
+
+.student{
+  border: 1px solid hsla(0, 0%, 50%, 0.808);
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+  text-align: center;
+
+}
+.student:hover {
+  background-color: rgba(216, 219, 225, 0.956);
+  color: white;
+  border: 1px solid #050a1a;
+}
+.student p{
+  margin: 0;
+  padding: 0.2em;
+}
